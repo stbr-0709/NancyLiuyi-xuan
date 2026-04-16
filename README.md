@@ -21,7 +21,7 @@
 |------|------|--------|
 | [社媒帖子分析工具](https://github.com/sbtr-0709/social-post-analyzer) | AI 分析互动率、推荐标签、平台建议 | Python + DeepSeek API |
 | [游戏评论情感分析器](https://github.com/sbtr-0709/game-review-sentiment) | AI 分析用户评论情绪，支持批量导入 | Python + DeepSeek API |
-| [运营数据看板](https://github.com/sbtr-0709/ops-dashboard) | Streamlit 交互式看板，展示社媒核心指标 | Python + Streamlit |
+| [运营数据看板](https://github.com/stbr-0709/social-post-analyzer)| Streamlit 交互式看板，展示社媒核心指标 | Python + Streamlit |
 
 ## 📌 最近在做什么
 
