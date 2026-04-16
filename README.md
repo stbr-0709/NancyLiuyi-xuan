@@ -18,7 +18,8 @@
 
 | 项目 | 说明 | 技术栈 |
 |------|------|--------|
-| [社媒帖子分析工具](https://github.com/stbr-0709/social-post-analyzer) | AI 分析互动率、推荐标签、平台建议 | Python + DeepSeek API |
+| [社媒帖子分析工具](https://github.com/sbrr-0709/social-post-analyzer) | AI 分析互动率、推荐标签、平台建议 | Python + DeepSeek API |
+| [游戏评论情感分析器](https://github.com/sbrr-0709/game-review-sentiment) | AI 分析用户评论情绪，支持批量导入 | Python + DeepSeek API |
 
 ## 📌 最近在做什么
 
