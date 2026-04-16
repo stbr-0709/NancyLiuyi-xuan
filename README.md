@@ -9,17 +9,23 @@
 - 数据分析：SQL · Python · Excel，用数据说话
 - AI 工具：擅长用 LLM 提升运营效率
 
-## 📦 这个主页里有什么
+## 🎨 作品集 & 联系我
+
+- 📁 **作品集网站**：[点击查看我的作品集](https://grape-koala-1x0s2c.mysxl.cn/2)
+- 📧 邮箱：liuyixuan20240225@163.com
+
+## 📦 我的 GitHub 项目
 
 | 项目 | 说明 | 技术栈 |
 |------|------|--------|
-| [社媒帖子分析工具](链接) | AI 分析互动率、推荐标签 | Python + LLM API |
-| [游戏评论情感分析](链接) | 用户反馈聚类 + 产品建议 | Pandas + AI |
-| [运营数据看板模板](链接) | 游戏/社媒核心指标可视化 | Streamlit |
+| [社媒帖子分析工具](https://github.com/stbr-0709/social-post-analyzer) | AI 分析互动率、推荐标签、平台建议 | Python + DeepSeek API |
 
-## 📫 联系我
+## 📌 最近在做什么
 
-- 简历作品集：[点击查看](https://grape-koala-1x0s2c.mysxl.cn/2)
-- 邮箱：liuyixuan20240225@163.com
-- 最近在学：用 AI 做更聪明的游戏运营决策# NancyLiuyi-xuan
-about me
+- 用 AI 提升游戏运营决策效率
+- 学习将数据分析更好落地到社媒增长场景
+- 维护个人作品集与 GitHub 实践项目
+
+---
+
+*欢迎交流游戏运营、社媒增长、AI应用相关话题*
