@@ -19,7 +19,7 @@
 
 ## 📫 联系我
 
-- 简历作品集：[点击查看]()
+- 简历作品集：[点击查看](https://grape-koala-1x0s2c.mysxl.cn/2)
 - 邮箱：liuyixuan20240225@163.com
 - 最近在学：用 AI 做更聪明的游戏运营决策# NancyLiuyi-xuan
 about me
